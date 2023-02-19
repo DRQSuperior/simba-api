@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
   "update_url": "https://link-hub.net/364614/simba-dev-website",
-  "downtime": true,
-  "downtime_reason": "Test"
+  "downtime": false,
+  "downtime_reason": "Na"
 }
