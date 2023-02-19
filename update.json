@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "update_url": "https://link-hub.net/364614/simba-dev-website",
-  "downtime": false,
-  "downtime_reason": "Na",
+  "downtime": true,
+  "downtime_reason": "VPS Issue!",
   "discord_url": "https://discord.gg/GqYvPmAkzC"
 }
