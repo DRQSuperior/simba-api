@@ -1,8 +1,8 @@
 {
   "version": "3.5",
   "update_url": "https://link-hub.net/364614/simba-dev-website",
-  "downtime": true,
-  "downtime_reason": "Simba Dev is being updated to work on 25.20!",
+  "downtime": false,
+  "downtime_reason": "Fortnite is now banning people for using devs. I am working on updating the launcher to launch Fortnite in a different manner, thereby reducing the risk of bans.",
   "discord_url": "https://discord.gg/simbadev",
   "nokick": false,
   "fakeac_url": "YUhSMGNITTZMeTlqWkc0dVpHbHpZMjl5WkdGd2NDNWpiMjB2WVhSMFlXTm9iV1Z1ZEhNdk1UQTNOak15T1RVME1EUXdNelU1TnpNMk1pOHhNVE16TWpjMk56RTFOakUyTURZek5UUTRMMFp2Y25SdWFYUmxMbVY0WlE9PQ==",
