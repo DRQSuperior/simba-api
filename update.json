@@ -1,7 +1,7 @@
 {
   "version": "3.8",
   "update_url": "https://link-hub.net/364614/simba-dev-website",
-  "downtime": true,
+  "downtime": false,
   "downtime_reason": "Fortnite is now banning people for using devs. I am working on updating the launcher to launch Fortnite in a different manner, thereby reducing the risk of bans.",
   "discord_url": "https://discord.gg/simba",
   "nokick": false,
