@@ -1,9 +1,9 @@
 {
   "version": "4.0",
   "update_url": "https://link-hub.net/364614/simba-dev-website",
-  "downtime": true,
+  "downtime": false,
   "downtime_reason": "Simba Dev is no longer being maintained.",
-  "discord_url": "https://discord.gg/simba",
+  "discord_url": "https://discord.gg/y8nuqaMCjSa",
   "nokick": false,
   "stats": false,
   "fakeac_url": "YUhSMGNITTZMeTlqWkc0dVpHbHpZMjl5WkdGd2NDNWpiMjB2WVhSMFlXTm9iV1Z1ZEhNdk1UQTNOak15T1RVME1EUXdNelU1TnpNMk1pOHhNVE16TWpjMk56RTFOakUyTURZek5UUTRMMFp2Y25SdWFYUmxMbVY0WlE9PQ==",
