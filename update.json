@@ -1,7 +1,7 @@
 {
-  "version": "4.3",
+  "version": "4.4",
   "update_url": "https://link-hub.net/364614/simba-dev-website",
-  "downtime": true,
+  "downtime": false,
   "downtime_reason": "Simba Dev's VPS Hosting Serivce is down.",
   "discord_url": "https://discord.simbadev.lol",
   "nokick": false,
