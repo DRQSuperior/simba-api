@@ -1,7 +1,7 @@
 {
   "version": "4.5",
   "update_url": "https://link-hub.net/364614/simba-dev-website",
-  "downtime": false,
+  "downtime": true,
   "downtime_reason": "Simba Dev is being updated.",
   "discord_url": "https://discord.simbadev.lol",
   "nokick": false,
