@@ -15,7 +15,6 @@
     "/game/v2/profile/",
     "/api/locker/v3/",
     "/api/locker/v4/",
-    "/waitingroom/api/waitingroom",
     "/fortnite/api/cloudstorage"
   ]
 }
