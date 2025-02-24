@@ -14,6 +14,8 @@
   "redirects": [
     "/game/v2/profile/",
     "/api/locker/v3/",
-    "/api/locker/v4/"
+    "/api/locker/v4/",
+    "/api/v1/games/fortnite/trackprogress/",
+    "/api/v1/games/fortnite/tracks/activeBy/"
   ]
 }
