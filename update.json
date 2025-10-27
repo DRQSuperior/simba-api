@@ -4,13 +4,6 @@
   "downtime": false,
   "downtime_reason": "Simba Dev is being updated.",
   "discord_url": "https://discord.simbadev.lol",
-  "nokick": false,
-  "stats": false,
-  "fakeac_url": "YUhSMGNEb3ZMekUwTnk0eE16VXVNVEU1TGpRMU9qSXhNakV2WTJSdUwwRkRMbVY0WlE9PQ==",
-  "nokick_url": "YUhSMGNITTZMeTlqWkc0dVpHbHpZMjl5WkdGd2NDNWpiMjB2WVhSMFlXTm9iV1Z1ZEhNdk1UQTNOak15T1RVME1EUXdNelU1TnpNMk1pOHhNVE16T1RNeE1USTBNek14TVRJMk9EUTBMMDV2UzJsamF5NWtiR3c9",
-  "fnl_url": "YUhSMGNEb3ZMekUwTnk0eE16VXVNVEU1TGpRMU9qSXhNakV2WTJSdUwwWnZjblJ1YVhSbFRHRjFibU5vWlhJdVpYaGw=",
-  "dll_url": "YUhSMGNEb3ZMekUwTnk0eE16VXVNVEU1TGpRMU9qSXhNakV2WTJSdUwxTlRUQzVrYkd3PQ==",
-  "injector_url": "YUhSMGNITTZMeTluYVhSb2RXSXVZMjl0TDBSU1VWTjFjR1Z5YVc5eUwwWnZjblJ1YVhSbFRHRjFibU5vWlhKQlVFbERjMmhoY25BdmNtRjNMMjFoYVc0dlNXNXFaV04wYjNJdVpYaGw=",
   "redirects": [
     "/game/v2/profile/",
     "/api/locker/v3/",
