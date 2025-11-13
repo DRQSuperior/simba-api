@@ -9,7 +9,11 @@
     "/game/v2/profile/",
     "/api/locker/v3/",
     "/api/locker/v4/",
+    "/active-loadout-group",
     "/api/v1/games/fortnite/trackprogress/",
-    "/api/v1/games/fortnite/tracks/activeBy/"
+    "/api/v1/games/fortnite/tracks/activeBy/",
+    "/fortnite/api/cloudstorage/system",
+    "/fortnite/api/cloudstorage/user/",
+    "/content/api/pages/fortnite-game",
   ]
 }
