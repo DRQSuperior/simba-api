@@ -1,0 +1,26 @@
+{
+  "mods": [
+    {
+      "key": "username-spoofer",
+      "name": "Username Spoofer",
+      "description": "Spoof your username whilst using Simba Dev (Client Sided).",
+      "enabled": true,
+      "settingsSchema": {
+        "spoofedName": {
+          "type": "string",
+          "label": "Spoofed Name",
+          "default": ""
+        }
+      },
+      "execute": "GbPT0t7RujrMgrcEybm_eQ.VJ2pcOGW_kWPkEcI.Y3ocBM_A9I2o5WenmJ7AOk2YiH0-yV9_qqCJbX1fqeaED-tn6Eqvj5YFURywtb3a4Fz8TkK4QMCiG8Q84W0dKh36UoJylXPbzXBa6A"
+    },
+    {
+      "key": "cosmetics-kick-bypass",
+      "name": "Cosmetics Kick Bypass",
+      "description": "This allows you to change your cosmetics ingame without getting kicked.",
+      "enabled": true,
+      "settingsSchema": {},
+      "execute": "77aZ_I0GW5O7ClkNxy9dSg.cvry7-AO9YTp3Ayx.sOGG2WNmHi51JH32Ce2oknddey6cocTv75X1V6Y"
+    }
+  ]
+}
