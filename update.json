@@ -12,7 +12,6 @@
     "/active-loadout-group",
     "/api/v1/games/fortnite/trackprogress/",
     "/api/v1/games/fortnite/tracks/activeBy/",
-    "/fortnite/api/cloudstorage/system",
-    "/fortnite/api/cloudstorage/user/"
+    "/fortnite/api/cloudstorage/system"
   ]
 }
