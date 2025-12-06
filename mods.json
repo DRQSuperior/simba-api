@@ -16,7 +16,7 @@
     },
     {
       "key": "cosmetics-kick-bypass",
-      "name": "Cosmetics Kick Bypass",
+      "name": "No Kick (Beta)",
       "description": "This allows you to change your cosmetics ingame without getting kicked.",
       "enabled": true,
       "settingsSchema": {},
