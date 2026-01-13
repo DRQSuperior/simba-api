@@ -2,7 +2,7 @@
   "version": "2.7",
   "proxyversion": "0.1",
   "update_url": "https://simbadev.lol/download",
-  "downtime": true,
+  "downtime": false,
   "downtime_reason": "VPS Issues.",
   "discord_url": "https://discord.simbadev.lol",
   "redirects": [
