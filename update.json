@@ -1,6 +1,6 @@
 {
-  "version": "2.7",
-  "proxyversion": "0.1",
+  "version": "2.8",
+  "proxyversion": "0.2",
   "update_url": "https://simbadev.lol/download",
   "downtime": false,
   "downtime_reason": "VPS Issues.",
