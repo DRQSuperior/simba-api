@@ -12,15 +12,32 @@
           "default": ""
         }
       },
-      "execute": "GbPT0t7RujrMgrcEybm_eQ.VJ2pcOGW_kWPkEcI.Y3ocBM_A9I2o5WenmJ7AOk2YiH0-yV9_qqCJbX1fqeaED-tn6Eqvj5YFURywtb3a4Fz8TkK4QMCiG8Q84W0dKh36UoJylXPbzXBa6A"
+      "execute": "LZBg7T6SejDp9YWA._aj9ClX6PEKPyIO4HC1FDziGSC-GL7BOdCCQ4YibmFJe_UjfHgMXzZ18NI1h19iL8mFg3pGeohh2pogHjcoHATjlhdeivCBkGTLqsg"
     },
     {
       "key": "cosmetics-kick-bypass",
       "name": "No Kick (Beta)",
       "description": "This allows you to change your cosmetics ingame without getting kicked.",
       "enabled": false,
-      "settingsSchema": {},
-      "execute": "77aZ_I0GW5O7ClkNxy9dSg.cvry7-AO9YTp3Ayx.sOGG2WNmHi51JH32Ce2oknddey6cocTv75X1V6Y"
+      "settingsSchema": {
+        "syncRealEmotes": {
+          "type": "boolean",
+          "label": "Sync real Fortnite emotes",
+          "default": false
+        },
+        "useRealLoadout": {
+          "type": "boolean",
+          "label": "Clear to the loadout worn on real Fortnite",
+          "default": true
+        },
+       "clearLockerKey": {
+          "type": "string",
+          "control": "keybind",
+          "label": "Clear locker key",
+          "default": "`"
+        }
+      },
+      "execute": "v53rX9TBvNbnD5n3.Gy7g2UoKFgX7d5bXLDTI4voISJMQm3vysSTMg0nKJCui0vXGHGl6z7xrQphbjRdyQv6fkTncnK7Km0oyrh-tyQbPP4x26-Mj4g3XI-CJmHsuLwnegco"
     }
   ]
 }
