@@ -2,7 +2,7 @@
   "version": "2.9",
   "proxyversion": "0.3",
   "update_url": "https://simbadev.lol/download",
-  "downtime": false,
+  "downtime": true,
   "downtime_reason": "Simba Dev is being updated.",
   "discord_url": "https://discord.simbadev.lol",
   "redirects": [
