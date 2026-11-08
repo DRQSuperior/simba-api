@@ -7,10 +7,7 @@
   "discord_url": "https://discord.simbadev.lol",
   "redirects": [
     "/game/v2/profile/",
-    "/api/locker/v3/",
-    "/api/locker/v4/",
-    "/active-loadout-group",
-    "/api/v1/games/fortnite/trackprogress/",
-    "/api/v1/games/fortnite/tracks/activeBy/"
+    "/api/locker",
+    "/content/api/pages/fortnite-game"
   ]
 }
