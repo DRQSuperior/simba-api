@@ -1,18 +1,12 @@
 {
   "mods": [
     {
-      "key": "username-spoofer",
-      "name": "Username Spoofer",
-      "description": "Spoof your username whilst using Simba Dev (Client Sided).",
+      "key": "vc-ban-bypass",
+      "name": "Voice Chat Ban Bypass",
+      "description": "Bypasses Voice Chat bans, allowing you to talk in Game chat while Social banned. Party chat will break this bypass. (This does not bypass the social ban itself or restore text chat.)",
       "enabled": false,
-      "settingsSchema": {
-        "spoofedName": {
-          "type": "string",
-          "label": "Spoofed Name",
-          "default": ""
-        }
-      },
-      "execute": "LZBg7T6SejDp9YWA._aj9ClX6PEKPyIO4HC1FDziGSC-GL7BOdCCQ4YibmFJe_UjfHgMXzZ18NI1h19iL8mFg3pGeohh2pogHjcoHATjlhdeivCBkGTLqsg"
+      "settingsSchema": {},
+      "execute": "t0ObM-iuhxCmT8ad.t6v8V11Q8lQ8_4Bfkwd5ALyOJdeHhgvUtHQH"
     },
     {
       "key": "cosmetics-kick-bypass",
@@ -30,7 +24,7 @@
           "label": "Clear to the loadout worn on real Fortnite",
           "default": true
         },
-       "clearLockerKey": {
+        "clearLockerKey": {
           "type": "string",
           "control": "keybind",
           "label": "Clear locker key",
