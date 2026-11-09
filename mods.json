@@ -4,7 +4,7 @@
       "key": "vc-ban-bypass",
       "name": "Voice Chat Ban Bypass",
       "description": "Bypasses Voice Chat bans, allowing you to talk in Game chat while Social banned. Party chat will break this bypass. (This does not bypass the social ban itself or restore text chat.)",
-      "enabled": false,
+      "enabled": true,
       "settingsSchema": {},
       "execute": "t0ObM-iuhxCmT8ad.t6v8V11Q8lQ8_4Bfkwd5ALyOJdeHhgvUtHQH"
     },
@@ -12,7 +12,7 @@
       "key": "cosmetics-kick-bypass",
       "name": "No Kick (Beta)",
       "description": "This allows you to change your cosmetics ingame without getting kicked.",
-      "enabled": false,
+      "enabled": true,
       "settingsSchema": {
         "syncRealEmotes": {
           "type": "boolean",
