@@ -8,6 +8,7 @@
   "redirects": [
     "/game/v2/profile/",
     "/api/locker",
-    "/content/api/pages/fortnite-game"
+    "/content/api/pages/fortnite-game",
+    "/fortnite/api/cloudstorage/system"
   ]
 }
