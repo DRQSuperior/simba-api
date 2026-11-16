@@ -1,6 +1,6 @@
 {
   "version": "3.0",
-  "proxyversion": "0.4",
+  "proxyversion": "0.5",
   "update_url": "https://simbadev.lol/download",
   "downtime": false,
   "downtime_reason": "Simba Dev is being updated.",
