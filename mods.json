@@ -1,18 +1,24 @@
 {
   "mods": [
     {
-      "key": "vc-ban-bypass",
-      "name": "Voice Chat Ban Bypass",
-      "description": "Bypasses Voice Chat bans, allowing you to talk in Game chat while Social banned. Party chat will break this bypass. (This does not bypass the social ban itself or restore text chat.)",
-      "enabled": false,
-      "settingsSchema": {},
-      "execute": "t0ObM-iuhxCmT8ad.t6v8V11Q8lQ8_4Bfkwd5ALyOJdeHhgvUtHQH"
+      "key": "username-spoofer",
+      "name": "Username Spoofer",
+      "description": "Spoof your username whilst using Simba Dev (Client Sided).",
+      "enabled": true,
+      "settingsSchema": {
+        "spoofedName": {
+          "type": "string",
+          "label": "Spoofed Name",
+          "default": ""
+        }
+      },
+      "execute": "1mxq4CUWB0oIWbid.VeLfvh069l_hgOxvqZHAIeDxWEfos62KcZt3LjwM3g3QeaMfDwAzhLUjR3tqi8Ff7mpE0mpShMN0wDAPPH84ZrhPLcx2-QVdqMSP0mrfhzg"
     },
     {
       "key": "cosmetics-kick-bypass",
       "name": "No Kick (Beta)",
       "description": "This allows you to change your cosmetics ingame without getting kicked.",
-      "enabled": false,
+      "enabled": true,
       "settingsSchema": {
         "syncRealEmotes": {
           "type": "boolean",
